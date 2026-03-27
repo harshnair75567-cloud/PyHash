@@ -1,2 +1,1 @@
-# PyHash
-a python script which will routinely check and alert on any file tampering
+PyHash is a Python-based Blue Team security tool designed to detect unauthorized file tampering, malware injections, and "backdoor" creations in real-time. By utilizing the SHA-256 cryptographic algorithm, it ensures that any modification to sensitive system files—no matter how small—is immediately flagged
